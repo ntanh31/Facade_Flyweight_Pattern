@@ -1,0 +1,11 @@
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\bin\Debug\FacadePattern_Midterm.exe.config
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\bin\Debug\FacadePattern_Midterm.exe
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\bin\Debug\FacadePattern_Midterm.pdb
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.Form1.resources
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.Properties.Resources.resources
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.exe
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.pdb
+C:\Users\nguye\source\repos\FacadePattern_Midterm\FacadePattern_Midterm\obj\Debug\FacadePattern_Midterm.Form2.resources
